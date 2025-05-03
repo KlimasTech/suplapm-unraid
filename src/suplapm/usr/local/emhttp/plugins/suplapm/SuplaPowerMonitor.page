@@ -1,5 +1,5 @@
 Menu="Utilities"
-Icon="suplapm.png"
+Icon="ups"
 Title="Supla Power Monitor"
 ---
 <?php
